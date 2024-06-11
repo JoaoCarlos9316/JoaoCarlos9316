@@ -7,7 +7,7 @@
 
 ⚙️ Tenho experiencia em programação e modelagem 2D 
 
-⚙️ crio jogos 2d, des de 2019, em nivel iniciante
+⚙️ crio jogos 2d, des de 2022
 
  ### email de contato
  joaocarlosmartins9316@gamil.com

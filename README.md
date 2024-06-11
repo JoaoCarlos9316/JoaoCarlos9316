@@ -7,7 +7,10 @@
 
 ⚙️ Tenho experiencia em programação e modelagem 2D 
 
-⚙️ crio jogos 2d, des de 2022
+⚙️ começei a programar e fazer modelagem 2d em 2022
+
+💬 falo inglês iniciante
+
 
  ### email de contato
  joaocarlosmartins9316@gamil.com
